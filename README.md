@@ -26,4 +26,4 @@ https://fr.aliexpress.com/item/32957309383.html?spm=a2g0o.productlist.0.0.56156a
 - encoder_pins: PB8, PB9
 - Click_pin: ^!PB5
 
-## Thank you all 
+## Thank you all (3DPMAMSIH)
