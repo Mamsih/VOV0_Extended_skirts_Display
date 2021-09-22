@@ -4,7 +4,7 @@ extended skirts with more than 15mm to allow put any motor size for the Z-Axis a
 of 38mm , more than that so i can use the front for adding a display with rotary knob , minimal display.
 
 ![V0 1 v4](https://user-images.githubusercontent.com/70104136/134428953-ea42ec26-fc77-484b-8fd5-7e1ff1d7ee43.png)
-![Skirts_02](https://user-images.githubusercontent.com/70104136/134428972-9016b0dd-165c-4245-b393-00f34cf500aa.png)
+![0022](https://user-images.githubusercontent.com/70104136/134430987-093e30ec-13d7-4004-a4af-4ddccd638a8e.jpg)
 
 ## BOM
 - 1/  360 Degree Rotary Encoder Module For arduino 
