@@ -26,4 +26,13 @@ https://fr.aliexpress.com/item/32957309383.html?spm=a2g0o.productlist.0.0.56156a
 - encoder_pins: PB8, PB9
 - Click_pin: ^!PB5
 
+# Appreciate my work ?
+
+## buy me a coffe 
+
+https://www.paypal.com/donate/?hosted_button_id=9EL8CEDVY28DA
+
+### thank you and happy printing 
+
+
 ## Thank you all (3DPMAMSIH)
